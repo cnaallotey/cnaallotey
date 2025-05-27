@@ -12,7 +12,9 @@ Web Developer and Visual Designer
 <a href="https://www.twitter.com/adotey_" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/adotey_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cnaallotey&label=Profile%20views&color=0e75b6&style=flat" alt="cnaallotey" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cnaallotey" alt="cnaallotey" /></a> </p>
 ### Skills
 <p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
