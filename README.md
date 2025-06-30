@@ -43,19 +43,10 @@ Web Developer and Visual Designer
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/cnaallotey"><img src="https://github-readme-stats.vercel.app/api?username=cnaallotey&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="cnaallotey's GitHub stats" /></a>
-
-<a href="http://www.github.com/cnaallotey"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cnaallotey&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/cnaallotey"><img src="https://activity-graph.herokuapp.com/graph?username=cnaallotey&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/cnaallotey" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnaallotey&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/cnaallotey/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cnaallotey&repo=portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/cnaallotey/neflixclone" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cnaallotey&repo=neflixclone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
+<a href="https://github.com/cnaallotey/GitHub-Language-Stats">
+<img src="https://github.com/cnaallotey/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/cnaallotey/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/cnaallotey/currencyconverter" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cnaallotey&repo=currencyconverter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
