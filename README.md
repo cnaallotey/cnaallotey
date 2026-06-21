@@ -10,7 +10,7 @@
 
 I'm a **mid-level full-stack developer** based in **Accra, Ghana**, who loves building things on the web. Currently neck-deep in creating a SaaS app while jamming to good music and squeezing in some gaming sessions! 🎮🎵
 
-- 🔭 Currently working on: **A SaaS application**
+- 🔭 Currently working on: **An AI Powered SaaS application for Growing African Business**
 - 🌱 Learning: Always leveling up my JavaScript/TypeScript game
 - 🎨 Design-minded: I speak Figma fluently
 - ⚡ Fun fact: I'm equally passionate about clean code and clutch gaming moments
